@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Ceyhan 
 - 👀 I’m interested in coding in Python , Java, 
-JavaScript,React/React-Native and   reading classical literature and watching football.
+JavaScript,React/React-Native ,  reading classical literature and watching football.
 - 🌱 I’m freelancing for a private school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
